@@ -7,10 +7,6 @@ permalink: /
 ---
 
 # Software engineer
-{: .fs-9 }
-
-Godocnam
-
 관심분야 : Algorithm, Machine learning, Deep learning, Robotics
 {: .fs-6 .fw-300 }
 
